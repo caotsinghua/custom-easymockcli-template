@@ -14,7 +14,7 @@ module.exports = {
 ```
 [详细配置](https://easy-mock.github.io/easy-mock-cli/#/?id=%e9%85%8d%e7%bd%ae%e9%a1%b9)
 
-> output
+> api/demo/index.js
 
 ```
 /** g */
